@@ -1,0 +1,2 @@
+rootProject.name = "AndroidAutoApp"
+include ':app'
